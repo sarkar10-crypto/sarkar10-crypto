@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarkar10-crypto&label=Profile%20views&color=0e75b6&style=flat" alt="sarkar10-crypto" /> </p>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Prisma**
 
-- 💬 Ask me about **MERN, java , API Testing**
+- 💬 Ask me about **MERN, java , API Testing**,Supabase , BetterAuth 
 
 - 📫 How to reach me **dayalkumarsarkar11@gmail.com**
 
